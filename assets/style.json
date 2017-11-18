@@ -1,6 +1,6 @@
 {
     "version": 8,
-    "name": "Relic",
+    "name": "Relic-copy",
     "metadata": {
         "mapbox:autocomposite": true,
         "mapbox:type": "default",
@@ -90,10 +90,10 @@
         "mapbox:trackposition": true
     },
     "center": [
-        -101.88479856668437,
-        44.268676483373696
+        -76.51869852974244,
+        41.7874677583531
     ],
-    "zoom": 2.7237062101765277,
+    "zoom": 14.110374778195693,
     "bearing": 0,
     "pitch": 0,
     "light": {
@@ -105,7 +105,7 @@
             "type": "vector"
         }
     },
-    "sprite": "mapbox://sprites/jillianwashere/cj98qygj21rg02sp8byf9xxei",
+    "sprite": "mapbox://sprites/jillianwashere/cja4mx52y2s4j2sl3rblfse1k",
     "glyphs": "mapbox://fonts/jillianwashere/{fontstack}/{range}.pbf",
     "layers": [
         {
@@ -590,11 +590,11 @@
                     "stops": [
                         [
                             15.5,
-                            "hsl(50, 47%, 81%)"
+                            "hsl(271, 44%, 73%)"
                         ],
                         [
                             16,
-                            "hsl(50, 63%, 84%)"
+                            "#9073AC"
                         ]
                     ]
                 }
@@ -1262,12 +1262,16 @@
                     "base": 1.35,
                     "stops": [
                         [
-                            13.5,
+                            9,
                             0.4
                         ],
                         [
+                            16,
+                            10
+                        ],
+                        [
                             20,
-                            3
+                            10
                         ]
                     ]
                 },
@@ -11192,7 +11196,7 @@
                 "text-max-width": 8
             },
             "paint": {
-                "text-color": "hsl(25, 25%, 32%)",
+                "text-color": "hsl(25, 1%, 9%)",
                 "text-halo-color": "hsl(0, 0%, 100%)",
                 "text-halo-width": 0.5,
                 "text-halo-blur": 0.5
@@ -14114,10 +14118,10 @@
             }
         }
     ],
-    "created": "2017-10-26T17:32:46.137Z",
-    "id": "cj98qygj21rg02sp8byf9xxei",
-    "modified": "2017-11-03T06:22:31.759Z",
+    "created": "2017-11-18T01:08:24.295Z",
+    "id": "cja4mx52y2s4j2sl3rblfse1k",
+    "modified": "2017-11-18T01:12:57.672Z",
     "owner": "jillianwashere",
-    "visibility": "public",
+    "visibility": "private",
     "draft": false
 }
